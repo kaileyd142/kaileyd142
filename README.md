@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Kailey (she/her)
+I am currently an undergraduate student taking classes on advanced R. This page will have a lot of my projects as I am learning to code!
 
 <!--
 **kaileyd142/kaileyd142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
